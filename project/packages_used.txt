@@ -6,6 +6,3 @@ skimage
 sklearn
 PIL
 collections.Counter
-typing.Union
-glob.glob
-
