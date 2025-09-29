@@ -1,1 +1,34 @@
-README
+# Image Analysis and Pattern Recognition  
+Final Project & Labs – EE451  
+
+This repository contains the lab assignments and the final project for the course **Image Analysis and Pattern Recognition (EE451)** from EPFL.  
+The work covers **computer vision** and **machine learning** techniques for analyzing, describing, and classifying visual data.  
+
+---
+
+## Final Project – Automatic Puzzle Piece Analysis
+We developed an end-to-end **computer vision pipeline** to automatically analyze and solve tiling puzzles from raw images.  
+
+**Main components:**
+- **Image Segmentation**: Contour detection, thresholding, and morphological operations to extract puzzle pieces from cluttered images.  
+- **Feature Extraction**: Color histograms, Gabor filters, Local Binary Patterns (LBP), Fourier descriptors, and texture analysis.  
+- **Pattern Recognition & Clustering**: Principal Component Analysis (PCA) and DBSCAN for grouping puzzle pieces into valid sets while detecting outliers.  
+- **Shape Recognition & Rotation Invariance**: Matching puzzle edges, estimating orientations, and reconstructing the final solution grid.  
+- **Classification & Reliability**: In-distribution vs out-of-distribution classification, outlier detection, and evaluation with standard pattern recognition metrics (accuracy, clustering quality, reconstruction success).  
+
+This project demonstrates **applied image analysis, image segmentation, feature extraction, shape recognition, outlier detection, and in-/out-of-distribution classification, and robustness evaluation** in a real problem setting, using Fourier analysis.  
+
+---
+
+## Labs  
+
+- **Lab 1: Image Segmentation**  
+  Applied thresholding, morphological filtering, and contour detection for separating foreground objects.  
+
+- **Lab 2: Object Description**  
+  Fourier descriptors, region descriptors, translation/rotation/scale invariance, and feature space clustering.  
+
+- **Lab 3: Object Classification**  
+  Feature engineering, dimensionality reduction, clustering, and supervised/unsupervised classification techniques.  
+
+---
