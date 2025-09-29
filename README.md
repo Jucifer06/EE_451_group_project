@@ -7,7 +7,6 @@ Final Project & Labs – EE451
 This repository contains the lab assignments and the final project for the course **Image Analysis and Pattern Recognition (EE451)** from EPFL.  
 The work covers **computer vision** and **machine learning** techniques for analyzing, describing, and classifying visual data.  
 
----
 
 ## Final Project – Automatic Puzzle Piece Analysis
 We developed an end-to-end **computer vision pipeline** to automatically analyze and solve tiling puzzles from raw images.  
@@ -21,7 +20,6 @@ We developed an end-to-end **computer vision pipeline** to automatically analyze
 
 This project demonstrates **applied image analysis, image segmentation, feature extraction, shape recognition, outlier detection, and in-/out-of-distribution classification, and robustness evaluation** in a real problem setting, using Fourier analysis.  
 
----
 
 ## Labs  
 
@@ -34,4 +32,3 @@ This project demonstrates **applied image analysis, image segmentation, feature 
 - **Lab 3: Object Classification**  
   Feature engineering, dimensionality reduction, clustering, and supervised/unsupervised classification techniques.  
 
----
