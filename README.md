@@ -1,7 +1,7 @@
 # Image Analysis and Pattern Recognition  
 Final Project & Labs – EE451  
 
-![Project Header](data/project-iapr.jpg)  
+![Project Header](data/project-iapr-header.jpg)  
 *Automatic Puzzle Piece Analysis using Computer Vision & Pattern Recognition* 
 
 This repository contains the lab assignments and the final project for the course **Image Analysis and Pattern Recognition (EE451)** from EPFL.  
